@@ -10,6 +10,8 @@ DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
+DOMAIN,lh3.google.com
+DOMAIN,lh3.googleusercontent.com
 DOMAIN,makersuite.google.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
